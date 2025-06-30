@@ -53,7 +53,7 @@ Git & GitHub (controle de versão e compartilhamento do projeto)
 
 
 🚀 Como Usar
-Faça o download da planilha Simulador_Investimentos.xlsx;
+Faça o download da planilha Desafio_Dio.xlsx;
 
 Abra no Microsoft Excel;
 
